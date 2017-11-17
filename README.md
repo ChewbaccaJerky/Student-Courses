@@ -9,7 +9,7 @@ Single Page Web Application which displays a Pie Chart and Grid. Renders informa
 1. Install node packages
     - `npm install`
 2. Start server
-    - `node ./backend/server.js`
+    - `npm start`
 3. Go to port 3000
     - `http://localhost:3000/#/`
 4. Enjoy
